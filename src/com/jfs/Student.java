@@ -33,7 +33,7 @@ public class Student {
     }
 
 
-    public LocalDate getDob() {
+    public float getDob() {
         return gpa;
     }
     public void setDob(LocalDate dob) {
